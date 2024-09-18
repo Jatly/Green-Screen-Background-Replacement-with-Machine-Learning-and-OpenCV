@@ -12,7 +12,7 @@ This project demonstrates a real-time green screen (chroma key) background repla
 
 ## Demo
 
-![Demo Video](https://github.com/Jatly/Green-Screen-Background-Replacement-with-Machine-Learning-and-OpenCV/blob/2b0d02072b105de2a7bd4fd35b6517a5659e6674/Recording%202024-09-18%20Green%20screen%20replacement.mp4)
+[Green Screen Replacement Demo](https://youtu.be/bdedqKFqRp4?si=vbG8CKaf5pC2lq5q)
  <!-- Replace with an image or GIF showing the project in action -->
 
 # How It Works
@@ -26,4 +26,4 @@ This project demonstrates a real-time green screen (chroma key) background repla
 Feel free to submit issues or pull requests. Contributions to improve the green screen detection or enhance the background replacement logic are welcome!
 
 ##License
-This project is licensed under the MIT License. See the ![LICENSE](https://github.com/Jatly/Green-Screen-Background-Replacement-with-Machine-Learning-and-OpenCV/blob/main/LICENCE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jatly/Green-Screen-Background-Replacement-with-Machine-Learning-and-OpenCV/blob/main/LICENSE) file for more details.
